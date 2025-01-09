@@ -1,10 +1,10 @@
-# README generator
+# README Generator
 ![badmath](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Description
 
-application creates Pro README
+This application will generate a professional README.
 
 ## Table of Contents
 
@@ -18,16 +18,16 @@ application creates Pro README
 ## Installation
 
 ```bash
-use this application to create Pro README
+You can find how to install the application here.
 ```
 
 ## Usage
 
-NO
+This is where you can find user information.
 
 ## How to contribute
 
-fork repository
+You can find how to contribute here.
 
 ## License
     This project is licensed under the MIT license.
@@ -37,7 +37,7 @@ fork repository
 ## Tests
 
 ```bash
-npm test
+Testing down here
 ```
 
 
