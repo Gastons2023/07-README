@@ -1,7 +1,6 @@
 # README Generator
 ![badmath](https://img.shields.io/badge/license-MIT-blue.svg)
-
-
+[Walk Through Video](https://drive.google.com/file/d/1LTuBVUaUbEGSeMbACmROoo26AteHDtxx/view?usp=sharing)
 ## Description
 
 This application will generate a professional README.
